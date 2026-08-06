@@ -302,6 +302,8 @@ GitHub API:
 POST /pulls
 ```
 <img width="1857" height="903" alt="Screenshot 2026-08-05 230927" src="https://github.com/user-attachments/assets/ba88b9be-db38-43d1-9aa1-6f8dc176f688" />
+
+## Before Pull Request Merged:
 <img width="1320" height="513" alt="Screenshot 2026-08-05 230954" src="https://github.com/user-attachments/assets/93de52da-dcd7-42ce-bb87-e612f000ba60" />
 
 Automatically creates:
@@ -315,8 +317,9 @@ Example:
 ```
 fix: initialize express app in test.js
 ```
-<img width="1256" height="665" alt="Screenshot 2026-08-05 231102" src="https://github.com/user-attachments/assets/6c7ecaff-e188-4ee1-860d-1a1a48e96ad6" />
 
+## After Pull Request Merged (CI Pipeline Success)
+<img width="1256" height="665" alt="Screenshot 2026-08-05 231102" src="https://github.com/user-attachments/assets/6c7ecaff-e188-4ee1-860d-1a1a48e96ad6" />
 ---
 
 ## Step 11 — Notify Developer
